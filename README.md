@@ -5,3 +5,4 @@ Including:
 - Analisis Statistik Dataset
 - Exploratory Data Analysis (EDA)
 - Implementasi Forward Propagation untuk Feed Forward Neural Network
+- Pembelajaran Dataset CSV Menggunakan Model-Model Terbaik
