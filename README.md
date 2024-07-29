@@ -1,8 +1,9 @@
 # Breezy-s-Data-Science-Projects
 This is a compilation of a bunch of data science projects I've tried out using Python and SQL.
 Including:
-- Data Scraping and Analysis
-- Analisis Statistik Dataset
-- Exploratory Data Analysis (EDA)
-- Implementasi Forward Propagation untuk Feed Forward Neural Network
-- Pembelajaran Dataset CSV Menggunakan Model-Model Terbaik
+- Indomaret - Data Scraping and Analysis
+- Wine - Dataset Statistical Analysis
+- Phone - Exploratory Data Analysis (EDA)
+- Forward Propagation Implementation For Feed Forward Neural Network
+- Healthcare Stroke Data - CSV Machine Learning Using the Best Model
+- Spotify Popularity Data 2024 - EDA
