@@ -7,3 +7,4 @@ Including:
 - Forward Propagation Implementation For Feed Forward Neural Network
 - Healthcare Stroke Data - CSV Machine Learning Using the Best Model
 - Spotify Popularity Data 2024 - EDA
+- Supermarket Data Visualization and Analysis Using Tableau and Python
