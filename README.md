@@ -11,4 +11,4 @@ Including:
 - Spotify Popularity Data 2024 - EDA
 - Supermarket Data Visualization and Analysis Using Tableau and Python
 - Twitter Election Prediction - Natural Language Processing (NLP)
-- Data Visualization Dashboard of a Television Company - Streamlit & Python
+- Data Visualization Dashboard of a Television Company - Streamlit & Python (https://dssa-dashboard-datazine.streamlit.app)
