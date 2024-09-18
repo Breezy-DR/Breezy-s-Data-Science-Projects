@@ -1,0 +1,3 @@
+[submodule "DSSA-Dashboard-Datazine"]
+	path = DSSA-Dashboard-Datazine
+	url = https://github.com/Breezy-DR/DSSA-Dashboard-Datazine.git
