@@ -1,6 +1,8 @@
 # Breezy-s-Data-Science-Projects
+
 This is a compilation of a bunch of data science projects I've tried out using Python and SQL.
 Including:
+
 - Indomaret - Data Scraping and Analysis
 - Wine - Dataset Statistical Analysis
 - Phone - Exploratory Data Analysis (EDA)
@@ -9,3 +11,4 @@ Including:
 - Spotify Popularity Data 2024 - EDA
 - Supermarket Data Visualization and Analysis Using Tableau and Python
 - Twitter Election Prediction - Natural Language Processing (NLP)
+- Data Visualization Dashboard of a Television Company - Streamlit & Python
