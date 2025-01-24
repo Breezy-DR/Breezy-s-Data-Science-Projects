@@ -12,3 +12,6 @@ Including:
 - Supermarket Data Visualization and Analysis Using Tableau and Python
 - Twitter Election Prediction - Natural Language Processing (NLP)
 - Data Visualization Dashboard of a Television Company - Streamlit & Python (https://dssa-dashboard-datazine.streamlit.app)
+- Cyber Threat Analysis - NLP Pipeline (Named Entity Recognition, Relation Extraction, Summarization)
+- TuneHive - Music Recommendation System on Mobile App using GRU4REC with Attention Mechanism
+- VeriFind - Literature Search and Validator Web Application
