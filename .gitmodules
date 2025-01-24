@@ -4,3 +4,9 @@
 [submodule "VeriFind"]
 	path = VeriFind
 	url = https://github.com/ScientiFolks/VeriFind
+[submodule "ML-TuneHive"]
+	path = ML-TuneHive
+	url = https://github.com/zeev-haydar/ML-TuneHive
+[submodule "Cyber-Threat-Analysis"]
+	path = Cyber-Threat-Analysis
+	url = https://github.com/GoDillonAudris512/Cyber-Threat-Analysis
