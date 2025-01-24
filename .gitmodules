@@ -1,3 +1,6 @@
 [submodule "DSSA-Dashboard-Datazine"]
 	path = DSSA-Dashboard-Datazine
 	url = https://github.com/Breezy-DR/DSSA-Dashboard-Datazine.git
+[submodule "VeriFind"]
+	path = VeriFind
+	url = https://github.com/ScientiFolks/VeriFind
